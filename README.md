@@ -1,2 +1,2 @@
-# keys
-Public keys, along with instructions for contacting me with them.
+# Keys
+This repository contains my public key.
